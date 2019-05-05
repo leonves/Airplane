@@ -1,6 +1,8 @@
 # Airplane
 API em .NET Core 2.2 com SWAGGER e EF Core / Frontend Angular 6
 
+API de crud onde é possível cadastrar, obter e deletar os aviões com quantidade de passageiros.
+
 # Rodar o projeto
 backend: update-database para atualizar o db setar o Airplane.Service.Host como principal. 
 
