@@ -1,0 +1,82 @@
+* {
+    margin: 0;
+}
+  
+header {
+    background: orange;
+    align-items: center;
+    display: flex;
+    img {
+        width: 10%;
+        padding: 25px;
+    }
+
+    div {
+        content: '';
+        flex: 1;
+    }
+
+    button {
+        margin: 0 25px 0 0;
+
+        i {
+            margin: 0 0 0 15px;
+            font-size: 1em;
+            color: orange;
+        }
+    }
+}
+
+button.criar{
+    position: absolute;
+    margin-top: 20px;
+    float: right;
+}
+
+.flex {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.invisible {
+    display: none;
+}
+
+
+.fileInput{
+    margin-left: 1rem;
+}
+
+.flexButtons {
+    float: right;
+    padding: 20px;
+}
+
+.input {
+    width: 100%;
+}
+
+.mat-table {
+    margin-top: 1rem;
+    width: 100% !important;
+}
+
+.airplanes-table {
+    width: 70%;
+}
+
+.airplanes {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+mat-form-field{ min-width:300px !important; }
+
+.mat-progress-spinner {
+    margin: auto;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}

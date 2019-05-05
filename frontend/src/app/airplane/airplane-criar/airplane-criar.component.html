@@ -1,0 +1,36 @@
+<header class="flex-container">
+  <img src="../../../assets/img/gol.svg" alt="" />
+  <div></div>
+  <button 
+      class="signoff" 
+      mat-raised-button (click)="signoff()"
+  >Sair<i class="fas fa-plane-departure"></i></button>
+
+</header>
+<div class="container">
+  <div class="cadastrar">
+      <mat-card>
+          <mat-card-title>Cadastrar</mat-card-title>   
+          <mat-form-field > 
+              <input matInput class="input" #codigo maxlength="4" [(ngModel)]="_aircraft.codigo" placeholder="Código do Avião" name="codigo">
+              <mat-hint align="end">{{codigo.value.length}} / 4</mat-hint>
+          </mat-form-field>
+          <mat-form-field>
+            <input matInput class="input" [(ngModel)]="_aircraft.modelo"   placeholder="Modelo" nome="modelo">
+          </mat-form-field>
+          <mat-form-field>
+            <input matInput class="input" type="number" [(ngModel)]="_aircraft.passageiros" placeholder="Qtd de Passageiros" name="passageiros">
+          </mat-form-field>
+          <div style="display: flex">
+              <div>
+                  <button mat-raised-button (click)="cadastrar()" color="primary">Cadastrar</button>
+              </div>
+              <div style="margin-left: 2px">
+                  <button mat-raised-button routerLink="/inicio" color="primary">Cancelar</button>
+              </div>              
+          </div>
+
+        </mat-card>
+  </div>
+
+</div>
