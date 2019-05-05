@@ -1,0 +1,9 @@
+C:\Users\Neve\Documents\projetos\Airplane\backend\src\Airplane.Infra.CrossCutting.Swagger\obj\Debug\netcoreapp2.2\Airplane.Infra.CrossCutting.Swagger.csproj.CoreCompileInputs.cache
+C:\Users\Neve\Documents\projetos\Airplane\backend\src\Airplane.Infra.CrossCutting.Swagger\obj\Debug\netcoreapp2.2\Airplane.Infra.CrossCutting.Swagger.AssemblyInfoInputs.cache
+C:\Users\Neve\Documents\projetos\Airplane\backend\src\Airplane.Infra.CrossCutting.Swagger\obj\Debug\netcoreapp2.2\Airplane.Infra.CrossCutting.Swagger.AssemblyInfo.cs
+C:\Users\Neve\Documents\projetos\Airplane\backend\src\Airplane.Infra.CrossCutting.Swagger\bin\Debug\netcoreapp2.2\Airplane.Infra.CrossCutting.Swagger.deps.json
+C:\Users\Neve\Documents\projetos\Airplane\backend\src\Airplane.Infra.CrossCutting.Swagger\bin\Debug\netcoreapp2.2\Airplane.Infra.CrossCutting.Swagger.dll
+C:\Users\Neve\Documents\projetos\Airplane\backend\src\Airplane.Infra.CrossCutting.Swagger\bin\Debug\netcoreapp2.2\Airplane.Infra.CrossCutting.Swagger.pdb
+C:\Users\Neve\Documents\projetos\Airplane\backend\src\Airplane.Infra.CrossCutting.Swagger\obj\Debug\netcoreapp2.2\Airplane.Infra.CrossCutting.Swagger.dll
+C:\Users\Neve\Documents\projetos\Airplane\backend\src\Airplane.Infra.CrossCutting.Swagger\obj\Debug\netcoreapp2.2\Airplane.Infra.CrossCutting.Swagger.pdb
+C:\Users\Neve\Documents\projetos\Airplane\backend\src\Airplane.Infra.CrossCutting.Swagger\obj\Debug\netcoreapp2.2\Airplane.Infra.CrossCutting.Swagger.csprojAssemblyReference.cache

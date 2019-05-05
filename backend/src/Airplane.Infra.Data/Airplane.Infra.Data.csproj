@@ -1,0 +1,46 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20190131181927_Correcao_Campo_Descricao_Tb_TipoLog_Insercao_Seed.cs" />
+    <Compile Remove="Migrations\20190131192126_Correcao_Campo_CorrelationId_Tb_Log.cs" />
+    <Compile Remove="Migrations\20190313113812_Add_Campo_Color_Tb_TipoLog.cs" />
+    <Compile Remove="Migrations\20190313114423_Add_Campo_Color_Tb_TipoLog.cs" />
+    <Compile Remove="Migrations\20190313114929_Add_Campo_Color_Tb_TipoLog.cs" />
+    <Compile Remove="Migrations\20190313115651_Add_Campo_Color_Tb_TipoLog.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="appsettings.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="appsettings.json">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="2.2.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="2.2.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="2.2.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="2.2.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.FileExtensions" Version="2.2.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="2.2.0" />
+    <PackageReference Include="Microsoft.Extensions.Identity.Stores" Version="2.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Airplane.Domain\Airplane.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore">
+      <HintPath>..\..\..\..\..\Program Files\dotnet\sdk\NuGetFallbackFolder\microsoft.aspnetcore.identity.entityframeworkcore\2.2.0\lib\netstandard2.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

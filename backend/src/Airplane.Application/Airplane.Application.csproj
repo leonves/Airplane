@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="8.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Airplane.Domain\Airplane.Domain.csproj" />
+    <ProjectReference Include="..\Airplane.Infra.CrossCutting.ExceptionHandler\Airplane.Infra.CrossCutting.ExceptionHandler.csproj" />
+    <ProjectReference Include="..\Airplane.Infra.Data\Airplane.Infra.Data.csproj" />
+  </ItemGroup>
+
+</Project>

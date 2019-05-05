@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "Airplane.Domain/1.0.0": {
+        "dependencies": {
+          "Airplane.Domain.Core": "1.0.0"
+        },
+        "runtime": {
+          "Airplane.Domain.dll": {}
+        }
+      },
+      "Airplane.Domain.Core/1.0.0": {
+        "runtime": {
+          "Airplane.Domain.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Airplane.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Airplane.Domain.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

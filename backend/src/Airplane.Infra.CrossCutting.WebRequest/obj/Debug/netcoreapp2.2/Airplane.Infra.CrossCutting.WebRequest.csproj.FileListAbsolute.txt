@@ -1,0 +1,8 @@
+C:\Users\Neve\Documents\projetos\Airplane\backend\src\Airplane.Infra.CrossCutting.WebRequest\obj\Debug\netcoreapp2.2\Airplane.Infra.CrossCutting.WebRequest.csproj.CoreCompileInputs.cache
+C:\Users\Neve\Documents\projetos\Airplane\backend\src\Airplane.Infra.CrossCutting.WebRequest\obj\Debug\netcoreapp2.2\Airplane.Infra.CrossCutting.WebRequest.AssemblyInfoInputs.cache
+C:\Users\Neve\Documents\projetos\Airplane\backend\src\Airplane.Infra.CrossCutting.WebRequest\obj\Debug\netcoreapp2.2\Airplane.Infra.CrossCutting.WebRequest.AssemblyInfo.cs
+C:\Users\Neve\Documents\projetos\Airplane\backend\src\Airplane.Infra.CrossCutting.WebRequest\bin\Debug\netcoreapp2.2\Airplane.Infra.CrossCutting.WebRequest.deps.json
+C:\Users\Neve\Documents\projetos\Airplane\backend\src\Airplane.Infra.CrossCutting.WebRequest\bin\Debug\netcoreapp2.2\Airplane.Infra.CrossCutting.WebRequest.dll
+C:\Users\Neve\Documents\projetos\Airplane\backend\src\Airplane.Infra.CrossCutting.WebRequest\bin\Debug\netcoreapp2.2\Airplane.Infra.CrossCutting.WebRequest.pdb
+C:\Users\Neve\Documents\projetos\Airplane\backend\src\Airplane.Infra.CrossCutting.WebRequest\obj\Debug\netcoreapp2.2\Airplane.Infra.CrossCutting.WebRequest.dll
+C:\Users\Neve\Documents\projetos\Airplane\backend\src\Airplane.Infra.CrossCutting.WebRequest\obj\Debug\netcoreapp2.2\Airplane.Infra.CrossCutting.WebRequest.pdb

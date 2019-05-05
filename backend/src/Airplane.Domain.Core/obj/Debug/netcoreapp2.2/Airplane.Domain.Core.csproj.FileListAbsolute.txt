@@ -1,0 +1,8 @@
+C:\Users\Neve\Documents\projetos\Airplane\backend\src\Airplane.Domain.Core\bin\Debug\netcoreapp2.2\Airplane.Domain.Core.deps.json
+C:\Users\Neve\Documents\projetos\Airplane\backend\src\Airplane.Domain.Core\bin\Debug\netcoreapp2.2\Airplane.Domain.Core.dll
+C:\Users\Neve\Documents\projetos\Airplane\backend\src\Airplane.Domain.Core\bin\Debug\netcoreapp2.2\Airplane.Domain.Core.pdb
+C:\Users\Neve\Documents\projetos\Airplane\backend\src\Airplane.Domain.Core\obj\Debug\netcoreapp2.2\Airplane.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Users\Neve\Documents\projetos\Airplane\backend\src\Airplane.Domain.Core\obj\Debug\netcoreapp2.2\Airplane.Domain.Core.AssemblyInfoInputs.cache
+C:\Users\Neve\Documents\projetos\Airplane\backend\src\Airplane.Domain.Core\obj\Debug\netcoreapp2.2\Airplane.Domain.Core.AssemblyInfo.cs
+C:\Users\Neve\Documents\projetos\Airplane\backend\src\Airplane.Domain.Core\obj\Debug\netcoreapp2.2\Airplane.Domain.Core.dll
+C:\Users\Neve\Documents\projetos\Airplane\backend\src\Airplane.Domain.Core\obj\Debug\netcoreapp2.2\Airplane.Domain.Core.pdb
