@@ -109,13 +109,14 @@ namespace Airplane.Application.Services
                 if (!Guid.TryParse(id, out Guid _parsedId))
                     throw new ApiException("O Id especificado é inválido", HttpStatusCode.BadRequest);
 
-                var _existingAircraft = _repository.Find(wh => !wh.IsDeleted && wh.Id == _parsedId);
+                var _existingAircraft = _repository.Find(wh => wh.Id == _parsedId);
 
                 if (_existingAircraft == null)
                     throw new ApiException("Avião não encontrado", HttpStatusCode.NotFound);
 
                 //necessário para mapear
                 airplaneToUpdate.Id = id;
+                airplaneToUpdate.CreatedDate = DateTime.Now;
                 _existingAircraft.IsDeleted = false;
 
                 _repository.Update(_mapper.Map(airplaneToUpdate, _existingAircraft));
